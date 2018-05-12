@@ -1,0 +1,31 @@
+_repo: The-Search_25866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Livingston, Grace
+    - Lutz, Grace Livingston Hill
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: In the midst of a desperate world war, spirited Ruth Macdonald helps
+  a lonely soldier find the love he longs for.
+gutenberg_issued: '2008-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Search
+url: http://www.gutenberg.org/ebooks/25866
